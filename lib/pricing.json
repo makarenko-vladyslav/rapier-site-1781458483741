@@ -1,0 +1,9 @@
+{
+  "basePrices": {
+    "regular": 35,
+    "general": 70,
+    "repair": 100
+  },
+  "minPrice": 950,
+  "currency": "грн"
+}
